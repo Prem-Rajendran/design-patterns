@@ -1,12 +1,12 @@
 # Design Patterns
 Important Design Patterns For Interview Preparation
-- [Four Pillars of OOPS](#four-pillars-of-oops)
-- [SOLID Principles](#solid-principles)
-- [Creational Pattern](#creational-pattern)
-- [Behavioural Pattern](#behavioural-pattern)
-- [Structural Pattern](#structural-pattern)
+- [Four Pillars of OOPS](#four-pillars-of-oops-)
+- [SOLID Principles](#solid-principles-)
+- [Creational Pattern](#creational-pattern-)
+- [Behavioural Pattern](#behavioural-pattern-)
+- [Structural Pattern](#structural-pattern-)
 
-## Four Pillars of OOPS
+## Four Pillars of OOPS [^](#design-patterns)
 The four pillars of OOPS (object-oriented programming) are
 - [Inheritance](#1-inheritance)
 - [Polymorphism](#2-polymorphism)
@@ -25,7 +25,7 @@ Encapsulation is the process of wrapping code and data together into a single un
 ### 4. Abstraction
 Abstraction is a process of hiding implemetation details and exposing only the functionality to the user. This means the user will only know "What it does" rather then "How it does".
 
-## SOLID Principles
+## SOLID Principles [^](#design-patterns)
 SOLID Principles are 5 basic principles which helpes to create good software architecture.
 
 - [Single Responsibility Principle](#1-single-responsibility-principle)
@@ -55,7 +55,7 @@ Clients should not be foreced to implement interfaces they do not use. Instead, 
 ### 5. Dependency Inversion Principle
 High level modules should not depend on low level modules. Both should depend on abstractions. Abstractions should not depend on details. Basically, Implement loosely coupled class architecture over concrete class.
 
-## Creational Pattern
+## Creational Pattern [^](#design-patterns)
 Creational Design Patterns deals with object creation mechanism.
 - [Singleton Design Pattern](#1-singleton-design-pattern)
 - [Factory Design Pattern](#2-factory-design-pattern)
@@ -73,7 +73,7 @@ Creational Design Patterns deals with object creation mechanism.
 
 ### 5. Prototype Design Pattern
 
-## Behavioural Pattern
+## Behavioural Pattern [^](#design-patterns)
 Behavioural Design Patterns deals with the communication of interaction between classes and objects.
 - [Chain of Responsibility Design Pattern](#1-chain-of-responsibility-design-pattern)
 - [Command Design Pattern](#2-command-design-pattern)
@@ -109,7 +109,7 @@ Behavioural Design Patterns deals with the communication of interaction between 
 
 ### 11. Visitor Design Pattern
 
-## Structural Pattern
+## Structural Pattern [^](#design-patterns)
 Structural design patterns are a group of design patterns that deal with how to arrange classes and objects to achieve specific design goals.
 - [Adapter Design Pattern](#1-adapter-design-pattern)
 - [Bridge Design Pattern](#2-bridge-design-pattern)
